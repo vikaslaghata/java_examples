@@ -100,11 +100,11 @@
                     <container>
                         <containerId>tomcat8x</containerId>
                         <type>installed</type>
-                        <home>C:\Users\vikas_laghata\Documents\Vikas_docs\EIS\EIS Docs\software\apache-tomcat-8.5.55apache-tomcat-8.5.55</home>
+                        <home><Tomcat_path>\software\apache-tomcat-8.5.55apache-tomcat-8.5.55</home>
                     </container>
                     <configuration>
                         <type>existing</type>
-                        <home>C:\Users\vikas_laghata\Documents\Vikas_docs\EIS\EIS Docs\software\apache-tomcat-8.5.55apache-tomcat-8.5.55</home>
+                        <home<Tomcat_path>\software\apache-tomcat-8.5.55apache-tomcat-8.5.55</home>
                     </configuration>
                 </configuration>
             </plugin>
